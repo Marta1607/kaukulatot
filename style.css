@@ -19,9 +19,13 @@
 }
 #inputShowScore{
     border: none;
-    border-bottom: violet solid 2px;
-    outline: none;
+    border-bottom: black solid 2px;
+    
 }
 .btn:hover{
     background-color: rgb(36, 35, 35);
+}
+#inputShowScore{
+    border-bottom: purple solid 2px;
+    outline: none;
 }
