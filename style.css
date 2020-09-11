@@ -8,10 +8,12 @@
     display: inline-block;
     font-size: 16px;
     min-width: 90px;
+    width: 24%;
 
 }
 .divWithbutton{
     margin: 5px;
+    width: 100%;
 
 }
 .btn-disabled{
