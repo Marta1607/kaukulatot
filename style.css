@@ -1,11 +1,27 @@
 .btn {
-    background-color: rgb(74, 7, 100);
+    background-color: rgb(0, 0, 0);
     border: none;
-    color: white;
+    color: rgb(124, 16, 167);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    min-width: 90px;
 
+}
+.divWithbutton{
+    margin: 5px;
+
+}
+.btn-disabled{
+    background-color: rgb(0, 0, 0);
+}
+#inputShowScore{
+    border: none;
+    border-bottom: violet solid 2px;
+    outline: none;
+}
+.btn:hover{
+    background-color: rgb(36, 35, 35);
 }
